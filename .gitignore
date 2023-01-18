@@ -1,3 +1,7 @@
+/data/
+/others/
+/env/
+/results/
 *.tar
 *.jpg
 *.jpeg
@@ -11,3 +15,6 @@
 /data/*
 /additional_models/biobert_v1.1_pubmed/*
 /__pycache__/*
+/build/
+/dist/
+/layoutlmv3.egg-info
